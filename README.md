@@ -16,7 +16,7 @@ LiquidCrystal_I2C
 #### Hardware
 Arduino Nano x1  
 TTP224 Touch Sensor Module x1  
-Midi Schield x1  
+Midi Shield x1  
 10K Potentiometer x16  
 #### IDE
 Arduino IDE
