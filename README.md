@@ -1,24 +1,31 @@
-# pseudo-autonomous-drone-2
-Arduino based MIDI sequencer/composer
+# Pseudo Autonomous Drone ML 2
+Arduino based probabalistic MIDI sequencer/composer
 
-## Getting Started
+## Usage
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+PAD2 can be used as a chord pattern or melody generator with any MIDI device.
+It is capable of producing formally correct and harmonic progressions based on user input of:
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
+- Tempo
+- Root note
+- Scale
+- Progression
 
 
+## License
 
+This project is licensed under the MIT License.
+See the [LICENSE.md](LICENSE.md) file for details.
 
+## Author
 
+Rostyslav Likholat
+
+## Libraries used
+
+Wire
+LCD
+LiquidCrystal_I2C
 
 ## Hardware used
 
@@ -30,16 +37,3 @@ Midi Schield x1
 ## IDE used
 
 Arduino IDE
-
-## Author
-
-Rostyslav Likholat
-
-## Libraries used
-
-Wire
-LCD
-LiquidCrystal_I2C
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
