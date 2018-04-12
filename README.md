@@ -4,12 +4,8 @@ Arduino based probabalistic MIDI sequencer/composer
 ## Usage
 
 PAD2 can be used as a chord pattern or melody generator with any MIDI device.
-It is capable of producing formally correct and harmonic progressions based on user input of:
-
-- Tempo
-- Root note
-- Scale
-- Progression
+It is capable of producing formally correct and harmonic progressions. Main parameters of this generative process are changeable via the user interface: Tempo, Root Note, Scale, Progression and the probability of random change for each.
+The probabilities of chord/note Transposition, Substitution, Mute and addition of 5th, 7th, 11t obertones are also presented in UI.
 
 
 ## License
