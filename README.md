@@ -7,15 +7,16 @@ The probabilities of chord/note Transposition, Substitution, Mute and addition o
 ## Author
 Rostyslav Likholat
 ## License
-This project is Open Hardware. It is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.  
-### Libraries
+This project is Open Hardware. It is licensed under the MIT License.  
+See the [LICENSE.md](LICENSE.md) file for details.  
+#### Libraries
 Wire  
 LCD  
 LiquidCrystal_I2C  
-### Hardware
+#### Hardware
 Arduino Nano x1  
 TTP224 Touch Sensor Module x1  
 Midi Schield x1  
 10K Potentiometer x16  
-### IDE
+#### IDE
 Arduino IDE
