@@ -7,8 +7,7 @@ The probabilities of chord/note Transposition, Substitution, Mute and addition o
 ## License
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
 ## Author
-Rostyslav Likholat
-## Components
+
 ### Libraries
 Wire  
 LCD  
